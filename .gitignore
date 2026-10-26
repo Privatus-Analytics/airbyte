@@ -1,0 +1,6 @@
+.venv/
+secrets/
+__pycache__/
+*.pyc
+SUBMISSION*.md
+output/
